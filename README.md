@@ -32,10 +32,10 @@ I chose backend development because I enjoy designing server-side logic, working
 
 Some of the projects you can find in my repositories:
 
-- [Explore with me](https://github.com/azatNarkulov/java-explore-with-me){target="_blank"} – backend service for discovering and sharing events, built with Java and Spring Boot with REST API and database integration.
-- [Share it](https://github.com/azatNarkulov/java-shareit){target="_blank"} — backend application for sharing items between users, implementing REST APIs, booking logic and data persistence.
-- [Filmorate](https://github.com/azatNarkulov/java-filmorate){target="_blank"} — RESTful backend service for managing movies, users, and likes with database storage.
-- [Kanban](https://github.com/azatNarkulov/java-kanban){target="_blank"} — task management application implementing a Kanban board with tasks, epics, subtasks and persistence.
+- [Explore with me](https://github.com/azatNarkulov/java-explore-with-me) – backend service for discovering and sharing events, built with Java and Spring Boot with REST API and database integration.
+- [Share it](https://github.com/azatNarkulov/java-shareit) — backend application for sharing items between users, implementing REST APIs, booking logic and data persistence.
+- [Filmorate](https://github.com/azatNarkulov/java-filmorate) — RESTful backend service for managing movies, users, and likes with database storage.
+- [Kanban](https://github.com/azatNarkulov/java-kanban) — task management application implementing a Kanban board with tasks, epics, subtasks and persistence.
 
 ### 📫 Contacts
 
