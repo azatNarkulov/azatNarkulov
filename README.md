@@ -5,28 +5,24 @@ I chose backend development because I enjoy designing server-side logic, working
 
 ### 🛠 Tech Stack
 
-**Languages**
-- Java
-- SQL
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-**Backend**
-- Spring Boot
-- REST API
-- Hibernate / JPA
+#### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 
-**Databases**
-- PostgreSQL
-- H2
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge)
+![H2](https://img.shields.io/badge/H2-003545?style=for-the-badge)
 
-**Tools**
-- Maven
-- Git
-- IntelliJ IDEA
-- DBeaver
-
-**Other**
-- JUnit
-- Agile / team development
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge)
 
 ### 📌 Projects
 
